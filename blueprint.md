@@ -6,7 +6,7 @@
 - Product Catalog: Display furniture pieces categorized into chairs, tables, and cabinets.
 - Product Detail Page: Present high-quality images, names, premium-style descriptions, and prices for each item. This page highlights the materials used and the craftsmanship involved.
 - Master Craftsman Section: Detail the background of Nikolai, the craftsman, noting his 15 years of experience and his commitment to personalized, handmade furniture.
-- Order Inquiry via Telegram: Enable potential customers to inquire about custom furniture orders directly through a Telegram link to @tyurninn.
+- Order Inquiry via Telegram: Enable potential customers to inquire about custom furniture orders directly through a Telegram link to @tyurnin.
 - Contact Form: A form to capture contact details and requirements for custom furniture.
 - AI-Powered Style Match: Users upload photos of their interiors and receive furniture recommendations matching their style. A tool helps to assess color palettes, design patterns and spatial dimensions in the images.
 

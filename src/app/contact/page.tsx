@@ -30,13 +30,13 @@ export default function ContactPage() {
               Для индивидуального заказа и быстрого ответа, напишите мастеру напрямую в Telegram.
             </p>
             <Button asChild size="lg" className="bg-accent text-accent-foreground hover:bg-accent/90">
-              <Link href="https://t.me/tyurninn" target="_blank" rel="noopener noreferrer">
+              <Link href="https://t.me/tyurnin" target="_blank" rel="noopener noreferrer">
                 <TelegramIcon />
                 <span className="ml-2">Написать в Telegram</span>
               </Link>
             </Button>
             <p className="text-sm text-muted-foreground mt-4">
-              Или по никнейму <span className="font-mono text-primary">@tyurninn</span>
+              Или по никнейму <span className="font-mono text-primary">@tyurnin</span>
             </p>
           </div>
         </div>

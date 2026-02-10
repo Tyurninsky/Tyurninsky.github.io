@@ -18,7 +18,7 @@ export function Footer() {
           <div className="flex items-center gap-4">
              <p className="text-sm text-muted-foreground">Связаться с мастером:</p>
             <Button asChild variant="ghost" size="icon">
-              <Link href="https://t.me/tyurninn" target="_blank" rel="noopener noreferrer" aria-label="Связаться в Telegram">
+              <Link href="https://t.me/tyurnin" target="_blank" rel="noopener noreferrer" aria-label="Связаться в Telegram">
                 <TelegramIcon />
               </Link>
             </Button>
