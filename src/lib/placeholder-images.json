@@ -1,0 +1,88 @@
+{
+  "placeholderImages": [
+    {
+      "id": "hero-1",
+      "description": "A beautifully crafted wooden chair in a stylish, well-lit room, representing the hero image for the furniture store.",
+      "imageUrl": "https://images.unsplash.com/photo-1652709021933-75a6490a51ee?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw3fHxmdXJuaXR1cmUlMjBpbnRlcmlvcnxlbnwwfHx8fDE3NzA3MTAxOTR8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "furniture interior"
+    },
+    {
+      "id": "category-chairs",
+      "description": "A collection of artisanal chairs, showcasing various designs and woods.",
+      "imageUrl": "https://images.unsplash.com/photo-1587438899760-3f45b5ad6b34?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw1fHx3b29kZW4lMjBjaGFpcnN8ZW58MHx8fHwxNzcwNzEwMTkzfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "wooden chairs"
+    },
+    {
+      "id": "category-tables",
+      "description": "Elegant wooden tables, from coffee tables to dining tables, in a workshop setting.",
+      "imageUrl": "https://images.unsplash.com/photo-1758426637805-e2b67800d622?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw5fHx3b29kZW4lMjB0YWJsZXN8ZW58MHx8fHwxNzcwNzEwMTkzfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "wooden tables"
+    },
+    {
+      "id": "category-cabinets",
+      "description": "Sturdy and stylish wooden cabinets and dressers.",
+      "imageUrl": "https://images.unsplash.com/photo-1758565811430-3423f31396f9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw5fHx3b29kZW4lMjBjYWJpbmV0c3xlbnwwfHx8fDE3NzA3MTAxOTN8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "wooden cabinets"
+    },
+    {
+      "id": "chair-1",
+      "description": "A minimalist wooden chair with a light oak finish.",
+      "imageUrl": "https://images.unsplash.com/photo-1758486561455-ebd0d3ba7423?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwzfHxtaW5pbWFsaXN0JTIwY2hhaXJ8ZW58MHx8fHwxNzcwNzAzMTEzfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "minimalist chair"
+    },
+    {
+      "id": "chair-2",
+      "description": "A classic dining chair made of dark walnut wood with an upholstered seat.",
+      "imageUrl": "https://images.unsplash.com/photo-1758977404510-6ab7e07ff1fe?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw4fHxjbGFzc2ljJTIwY2hhaXJ8ZW58MHx8fHwxNzcwNzEwMTk0fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "classic chair"
+    },
+    {
+      "id": "chair-3",
+      "description": "A modern armchair with smooth curves and a comfortable design.",
+      "imageUrl": "https://images.unsplash.com/photo-1759722667079-1a4e23d9ead9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw3fHxtb2Rlcm4lMjBhcm1jaGFpcnxlbnwwfHx8fDE3NzA3MTAxOTR8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "modern armchair"
+    },
+    {
+      "id": "table-1",
+      "description": "A large rustic dining table made from reclaimed wood.",
+      "imageUrl": "https://images.unsplash.com/photo-1657524398377-567034729507?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw1fHxkaW5pbmclMjB0YWJsZXxlbnwwfHx8fDE3NzA2MjkyMDB8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "dining table"
+    },
+    {
+      "id": "table-2",
+      "description": "A sleek and modern coffee table with metal legs.",
+      "imageUrl": "https://images.unsplash.com/photo-1581428982868-e410dd047a90?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw3fHxjb2ZmZWUlMjB0YWJsZXxlbnwwfHx8fDE3NzA1OTk1NTd8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "coffee table"
+    },
+    {
+      "id": "table-3",
+      "description": "A compact and functional side table, perfect for any living room.",
+      "imageUrl": "https://images.unsplash.com/photo-1611486212557-88be5ff6f941?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwzfHxzaWRlJTIwdGFibGV8ZW58MHx8fHwxNzcwNjE1MzQ2fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "side table"
+    },
+    {
+      "id": "cabinet-1",
+      "description": "A tall, spacious bookcase with multiple shelves.",
+      "imageUrl": "https://images.unsplash.com/photo-1601980285025-2f99bbb81c4e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw4fHx3b29kJTIwYm9va2Nhc2V8ZW58MHx8fHwxNzcwNzEwMTkzfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "wood bookcase"
+    },
+    {
+      "id": "cabinet-2",
+      "description": "A vintage-style dresser with intricate carvings.",
+      "imageUrl": "https://images.unsplash.com/photo-1765000884276-7edd860fb9bd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw3fHx2aW50YWdlJTIwZHJlc3NlcnxlbnwwfHx8fDE3NzA3MTAxOTR8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "vintage dresser"
+    },
+    {
+      "id": "cabinet-3",
+      "description": "A modern media console with clean lines and ample storage.",
+      "imageUrl": "https://images.unsplash.com/photo-1762595713125-f8f8be5165c6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw4fHxtZWRpYSUyMGNvbnNvbGV8ZW58MHx8fHwxNzcwNzEwMTk0fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "media console"
+    },
+    {
+      "id": "craftsman-nikolai",
+      "description": "Portrait of Nikolai, the master craftsman, in his workshop.",
+      "imageUrl": "https://images.unsplash.com/photo-1761753087548-5e4a7f2a6c0b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw5fHxjcmFmdHNtYW4lMjBwb3J0cmFpdHxlbnwwfHx8fDE3NzA3MDM5MjR8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "craftsman portrait"
+    }
+  ]
+}
